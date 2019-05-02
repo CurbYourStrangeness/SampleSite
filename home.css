@@ -1,10 +1,15 @@
 .back {
 background: rgb(2,0,36);
 /*background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(233,233,237,1) 0%, rgba(0,212,255,1) 100%);*/
+ height: 100%;
+ width: 100%;
 }
 
+.bannerHead
+
+
 .sidenav {
-    height: 100%
+    height: 100%;
     width: 130px;
     position: fixed;
     z-index: 1;
