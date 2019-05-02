@@ -5,8 +5,11 @@ background: rgb(2,0,36);
  width: 100%;
 }
 
-.bannerHead
+.bannerHead {
+   height: 48px;
+   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./Butch-Welch.png");
 
+}
 
 .sidenav {
     height: 100%;
@@ -37,4 +40,9 @@ background: rgb(2,0,36);
    margin-left: 160px;
    font-size:16px;
    padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+   .sidenav {padding-top: 15px;}
+   .sidenav a {fint-size: 18px;}
 }
