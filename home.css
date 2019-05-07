@@ -40,6 +40,12 @@ background: rgb(2,0,36);
    margin-left: 160px;
    font-size:16px;
    padding: 0px 10px;
+   text-align: left;
+}
+
+.mainText{
+
+   
 }
 
 @media screen and (max-height: 450px) {
