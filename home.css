@@ -44,8 +44,8 @@ background: rgb(2,0,36);
 }
 
 .mainText{
-
-   
+  text-align: right;
+  
 }
 
 @media screen and (max-height: 450px) {
