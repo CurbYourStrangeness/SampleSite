@@ -7,7 +7,7 @@ background: rgb(2,0,36);
 
 .bannerHead {
    height: 48px;
-   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./Butch-Welch.png");
+   background-image: url("./Butch-Welch.png");
 
 }
 
@@ -44,7 +44,7 @@ background: rgb(2,0,36);
 }
 
 .mainText{
-  text-align: right;
+  text-align: center;
   
 }
 
